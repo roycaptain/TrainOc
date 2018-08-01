@@ -23,7 +23,7 @@ int main(int argc, const char * argv[]) {
             NSLog(@" %@ ",hobby);
         }];
         
-//                [roy setValue:@23 forKey:@"age"];
+        [roy setValue:@23 forKey:@"age"];
 //                [roy introduce]; // 自我介绍,我的名字是 : Roy,年龄 : 23,性别 : 1
         
         //
